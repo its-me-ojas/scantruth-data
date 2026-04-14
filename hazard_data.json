@@ -231,6 +231,7 @@
       "saferAlternatives": [],
       "sources": [],
       "lastVerified": null
+      
     },
     "sunset yellow": {
       "name": "Sunset Yellow",
@@ -823,7 +824,7 @@
       "level": "danger",
       "banStatus": "bannedEU",
       "category": "Color / Whitening Agent",
-      "healthEffect": "BANNED as food additive in EU (2022) due to genotoxicity concerns. Still permitted in India.",
+      "healthEffect": "BANNED as food additive in EU (2022) due to genotoxicity concerns. Still permitted in India (dev checking).",
       "detail": "EFSA concluded it can no longer be considered safe. Banned as a food additive in the EU effective August 2022.",
       "summary": "A white pigment BANNED as a food additive in the EU (2022) because EFSA could not rule out genotoxicity (DNA damage). Still permitted in Indian food.",
       "iarcGroup": "group2b",
