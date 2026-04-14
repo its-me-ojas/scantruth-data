@@ -54,12 +54,11 @@
         "Asthmatics"
       ],
       "foundInProducts": [
-        "Haldiram's Aloo Bhujia",
-        "Kurkure (most flavors)",
-        "Fanta / Mirinda",
-        "Most Indian candies and mithai colors",
-        "Instant drink mixes (Tang, Rasna)",
-        "Yellow colored biscuits and cakes"
+        "Indian fried namkeens and bhujia",
+        "Puffed corn and extruded snacks",
+        "Coloured sweets and candies",
+        "Packaged snacks with yellow/orange colouring",
+        "Some instant noodle seasonings"
       ],
       "whatToDo": "Look for natural alternatives like annatto, turmeric, or beetroot color. Avoid in children's products. Check labels for \"colour (102)\" or \"INS 102\".",
       "saferAlternatives": [
@@ -140,11 +139,9 @@
         "Asthmatics"
       ],
       "foundInProducts": [
-        "Haldiram's red namkeens",
-        "Red-colored Indian candies (strawberry/cherry flavors)",
-        "Rose milk and rooh afza variants",
-        "Red chutneys in snack packs",
-        "Pink/red cake icings"
+        "Indian coloured namkeens and mithai",
+        "Packaged snacks with red colouring",
+        "Some carbonated drinks"
       ],
       "whatToDo": "Check labels for \"INS 122\", \"E122\", \"Carmoisine\", or \"Colour 122\". Avoid in products for children. US residents never see this because FDA doesn't approve it for food.",
       "saferAlternatives": [
@@ -333,7 +330,7 @@
       "banStatus": "none",
       "category": "Preservative",
       "healthEffect": "Can react with Vitamin C (ascorbic acid) in drinks to form benzene, a known human carcinogen.",
-      "detail": "Common in Frooti, Maaza, and other Indian beverages. Check if product also contains ascorbic acid.",
+      "detail": "Common in packaged fruit beverages and juices. Risk increases when combined with ascorbic acid (vitamin C), which can convert it to benzene.",
       "summary": "A common preservative. SAFE on its own, but can react with Vitamin C (ascorbic acid) to form benzene - a known human carcinogen. Many Indian juices contain both.",
       "iarcGroup": "notEvaluated",
       "prop65": "notListed",
@@ -371,13 +368,10 @@
         "Anyone drinking beverages with both sodium benzoate AND Vitamin C"
       ],
       "foundInProducts": [
-        "Frooti, Appy Fizz, Maaza",
-        "Real Fruit Juice (some variants)",
-        "Paper Boat drinks",
-        "Pickles and chutneys (commercial)",
-        "Jam and jellies",
-        "Salad dressings",
-        "Sauces (soy sauce, ketchup variants)"
+        "Packaged fruit juices and beverages",
+        "Carbonated soft drinks",
+        "Pickles and relishes",
+        "Jams and squashes"
       ],
       "whatToDo": "Check labels for \"E211\", \"INS 211\", or \"Sodium Benzoate\". Critically — if you see it alongside \"Vitamin C\", \"Ascorbic Acid\", or \"Citric Acid\" in a drink, avoid. Heat and sunlight accelerate benzene formation.",
       "saferAlternatives": [
@@ -453,7 +447,7 @@
       "banStatus": "restricted",
       "category": "Synthetic Antioxidant",
       "healthEffect": "Permitted but with strict limits. JECFA noted \"limited evidence of immunotoxicity\" at high doses.",
-      "detail": "Found in Maggi noodles, Kurkure, Lays, and many fried snacks. FSSAI limit: 200 ppm.",
+      "detail": "Common in instant noodle seasoning sachets, flavored chips, and fried snack seasonings. FSSAI limit: 200 ppm.",
       "summary": "A synthetic antioxidant used to prevent fats from going rancid. Safe at permitted levels, but animal studies link it to liver and immune effects at high doses.",
       "iarcGroup": "notEvaluated",
       "prop65": "notListed",
@@ -497,13 +491,11 @@
         "People with existing liver conditions"
       ],
       "foundInProducts": [
-        "Maggi 2-Minute Noodles (tastemaker)",
-        "Kurkure (most flavors)",
-        "Lays and Uncle Chipps",
-        "Haldiram's fried namkeens",
-        "McDonald's frying oils",
-        "Many packaged biscuits",
-        "Crackers and instant meals"
+        "Instant noodle seasoning sachets",
+        "Puffed corn and extruded snacks",
+        "Potato chips and crisps",
+        "Fried namkeens",
+        "Packaged fried foods"
       ],
       "whatToDo": "Check for \"INS 319\", \"E319\", or \"TBHQ\" on labels. Reduce daily consumption of fried packaged snacks. FSSAI allows up to 200 ppm, so limit intake to stay well below ADI.",
       "saferAlternatives": [
@@ -590,13 +582,10 @@
         "Heavy consumers of processed fats and oils"
       ],
       "foundInProducts": [
-        "Parle-G and Britannia biscuits",
-        "Cooking oils (some refined palm and vegetable oils)",
-        "Instant noodles (Maggi, Yippee)",
-        "Potato chips (Lays, Uncle Chipps variants)",
-        "Breakfast cereals",
-        "Chewing gum",
-        "Butter/ghee substitutes"
+        "Packaged biscuits and cookies",
+        "Instant noodles",
+        "Potato chips and crisps",
+        "Breakfast cereals"
       ],
       "whatToDo": "Check labels for \"INS 320\", \"E320\", or \"BHA\". Look for products using \"natural antioxidants\" or \"mixed tocopherols\" instead. The \"banned abroad\" label is warranted - California is phasing it out by 2027.",
       "saferAlternatives": [
@@ -675,7 +664,7 @@
       "banStatus": "none",
       "category": "Flavor Enhancer",
       "healthEffect": "FDA/JECFA classify as GRAS (safe). Some individuals report headaches, flushing, and sweating (\"MSG symptom complex\").",
-      "detail": "Found in Maggi, Kurkure, most instant noodles. Classified as safe at normal dietary levels by FDA, EFSA, and JECFA.",
+      "detail": "Common in instant noodles, chips, and ready-to-eat meal seasonings. Classified as safe at normal dietary levels by FDA, EFSA, and JECFA.",
       "summary": "A widely used flavor enhancer. Officially classified as safe by FDA, EFSA, and JECFA but linked to headache, flushing, and sweating in some sensitive individuals.",
       "iarcGroup": "notEvaluated",
       "prop65": "notListed",
@@ -720,14 +709,12 @@
         "Heavy consumers of processed foods with multiple MSG-containing items"
       ],
       "foundInProducts": [
-        "Maggi 2-Minute Noodles (tastemaker)",
-        "Kurkure (all flavors)",
-        "Lays chips (some variants)",
-        "Top Ramen / Yippee noodles",
-        "Haldiram's masala namkeens",
-        "Most \"masala\" seasonings",
-        "Chinese takeout and Indo-Chinese dishes",
-        "Bouillon cubes (Maggi, Knorr)"
+        "Instant noodle seasoning sachets",
+        "Puffed corn snacks",
+        "Potato chips (some variants)",
+        "Indian masala namkeens",
+        "Bouillon and stock cubes",
+        "Restaurant Chinese and fast food"
       ],
       "whatToDo": "Check labels for \"E621\", \"INS 621\", \"MSG\", \"monosodium glutamate\", or \"flavour enhancer 621\". EFSA notes most adults exceed ADI from normal diet. Limit packaged foods with multiple MSG sources.",
       "saferAlternatives": [
@@ -2808,15 +2795,12 @@
         "Heavy consumers of packaged biscuits, noodles, and fried snacks"
       ],
       "foundInProducts": [
-        "Maggi 2-Minute Noodles",
-        "Parle-G biscuits",
-        "Britannia biscuits",
-        "Kurkure and Lays",
-        "Haldiram's fried namkeens",
-        "Most commercial bread and cakes",
-        "Chocolate spreads (Nutella, Sundrop)",
-        "Instant coffee creamers",
-        "Infant formula (EU strictly limits 3-MCPD here)"
+        "Instant noodles",
+        "Packaged biscuits and cookies",
+        "Fried chips and snacks",
+        "Indian fried namkeens",
+        "Margarine and vanaspati",
+        "Packaged bakery products"
       ],
       "whatToDo": "Check labels for \"palm oil\", \"palmolein\", \"vegetable oil (palm)\", or \"palm kernel oil\". Choose products that specify unrefined oils like cold-pressed coconut, sunflower, or mustard oil. EU has introduced maximum limits on 3-MCPD that India has not yet adopted.",
       "saferAlternatives": [
@@ -2952,7 +2936,7 @@
       "banStatus": "bannedEU",
       "category": "Carcinogenic Sterilant",
       "healthEffect": "IARC Group 1 (carcinogenic to humans). Causes lymphoma and leukaemia. California Prop 65 listed for both cancer and reproductive toxicity.",
-      "detail": "2024 scandal: MDH and Everest masala mixes recalled in Hong Kong, Singapore, Maldives, and Nepal for ethylene oxide contamination. Used as a sterilant on spices but residues remain carcinogenic.",
+      "detail": "Used as a pesticide and sterilant on spice exports. In 2024, several Indian spice exports were recalled across Hong Kong, Singapore, Maldives, and Nepal for ethylene oxide contamination. Residues are carcinogenic even at low concentrations.",
       "summary": null,
       "iarcGroup": null,
       "prop65": null,
@@ -3314,7 +3298,7 @@
       "banStatus": "restricted",
       "category": "Process Contaminant",
       "healthEffect": "Forms during manufacture of Class III and Class IV caramel colour (E150c, E150d). California Prop 65 listed for cancer at levels above 29 micrograms per day.",
-      "detail": "Found in colas, soy sauce, dark beers, and dark sauces using caramel colour. Coca-Cola reformulated in California (2012) to avoid Prop 65 warning labels. India has no limits.",
+      "detail": "Found in dark colas, soy sauce, dark beers, and caramel-coloured sauces. Major cola brands reformulated in California (2012) to avoid Prop 65 warning labels. India has no regulatory limits.",
       "summary": null,
       "iarcGroup": null,
       "prop65": null,
