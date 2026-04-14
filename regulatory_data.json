@@ -1,0 +1,439 @@
+{
+  "version": 1,
+  "generated_at": "2026-04-11T01:58:37.089576",
+  "sources": {
+    "iarc": {
+      "name": "IARC Monographs on the Identification of Carcinogenic Hazards to Humans",
+      "url": "https://monographs.iarc.who.int/list-of-classifications",
+      "last_cross_referenced": "2026-04-11"
+    },
+    "prop65": {
+      "name": "California Proposition 65 List",
+      "url": "https://oehha.ca.gov/proposition-65/proposition-65-list",
+      "last_cross_referenced": "2026-04-11"
+    },
+    "efsa": {
+      "name": "European Food Safety Authority Scientific Opinions",
+      "url": "https://www.efsa.europa.eu/en/publications",
+      "last_cross_referenced": "2026-04-11"
+    }
+  },
+  "ingredients": {
+    "formaldehyde": {
+      "canonicalName": "Formaldehyde",
+      "casNumber": "50-00-0",
+      "aliases": [
+        "methanal",
+        "formic aldehyde",
+        "methylene oxide"
+      ],
+      "iarc": {
+        "group": "1",
+        "classification": "Carcinogenic to humans",
+        "monograph": "Volume 100F (2012)",
+        "source_url": "https://publications.iarc.who.int/123"
+      },
+      "prop65": {
+        "cancer": true,
+        "listed_date": "1988-01-01",
+        "source_url": "https://oehha.ca.gov/proposition-65/proposition-65-list"
+      },
+      "notes": "Used as preservative (DMDM hydantoin releases it). Found in cosmetics, adhesives, pressed wood."
+    },
+    "benzene": {
+      "canonicalName": "Benzene",
+      "casNumber": "71-43-2",
+      "aliases": [
+        "benzol"
+      ],
+      "iarc": {
+        "group": "1",
+        "classification": "Carcinogenic to humans",
+        "monograph": "Volume 100F (2012)",
+        "source_url": "https://publications.iarc.who.int/123"
+      },
+      "prop65": {
+        "cancer": true,
+        "reproductive": true,
+        "listed_date": "1987-02-27",
+        "source_url": "https://oehha.ca.gov/proposition-65/proposition-65-list"
+      },
+      "notes": "Can form from reaction of Vitamin C and sodium benzoate in drinks. IARC Group 1."
+    },
+    "ethylene oxide": {
+      "canonicalName": "Ethylene Oxide",
+      "casNumber": "75-21-8",
+      "aliases": [
+        "eto",
+        "oxirane",
+        "epoxyethane"
+      ],
+      "iarc": {
+        "group": "1",
+        "classification": "Carcinogenic to humans",
+        "monograph": "Volume 100F (2012)",
+        "source_url": "https://publications.iarc.who.int/123"
+      },
+      "prop65": {
+        "cancer": true,
+        "reproductive": true,
+        "listed_date": "1987-07-01",
+        "source_url": "https://oehha.ca.gov/proposition-65/proposition-65-list"
+      },
+      "notes": "Sterilant used on spices. 2024 scandal: MDH/Everest spices contaminated, recalled in Hong Kong & Singapore."
+    },
+    "acetaldehyde": {
+      "canonicalName": "Acetaldehyde",
+      "casNumber": "75-07-0",
+      "aliases": [
+        "ethanal"
+      ],
+      "iarc": {
+        "group": "2B",
+        "classification": "Possibly carcinogenic to humans",
+        "monograph": "Volume 36 (1985), 71 (1999)",
+        "source_url": "https://publications.iarc.who.int/89"
+      },
+      "prop65": {
+        "cancer": true,
+        "listed_date": "1988-04-01",
+        "source_url": "https://oehha.ca.gov/proposition-65/proposition-65-list"
+      },
+      "notes": "Found in alcoholic beverages. Metabolite of ethanol. Group 1 when associated with alcohol drinking.",
+      "verified_via": "WebFetch from oehha.ca.gov on 2026-04-11"
+    },
+    "bisphenol a": {
+      "canonicalName": "Bisphenol A (BPA)",
+      "casNumber": "80-05-7",
+      "aliases": [
+        "bpa",
+        "bisphenol-a"
+      ],
+      "prop65": {
+        "cancer": false,
+        "reproductive": true,
+        "developmental": true,
+        "femaleReproductive": true,
+        "listed_date": "2020-12-18",
+        "source_url": "https://oehha.ca.gov/proposition-65/proposition-65-list"
+      },
+      "notes": "Found in can linings, plastic water bottles, thermal receipts. EU banned in food contact materials 2024.",
+      "verified_via": "WebFetch from oehha.ca.gov on 2026-04-11"
+    },
+    "bisphenol s": {
+      "canonicalName": "Bisphenol S (BPS)",
+      "casNumber": "80-09-1",
+      "aliases": [
+        "bps"
+      ],
+      "prop65": {
+        "reproductive": true,
+        "developmental": true,
+        "femaleReproductive": true,
+        "maleReproductive": true,
+        "listed_date": "2025-12-08",
+        "source_url": "https://oehha.ca.gov/proposition-65/proposition-65-list"
+      },
+      "notes": "BPA-free replacement but equally concerning. Recently added to Prop 65 (Dec 2025) for reproductive toxicity.",
+      "verified_via": "WebFetch from oehha.ca.gov on 2026-04-11"
+    },
+    "acrylamide": {
+      "canonicalName": "Acrylamide",
+      "casNumber": "79-06-1",
+      "aliases": [
+        "2-propenamide",
+        "ethylene carboxamide"
+      ],
+      "iarc": {
+        "group": "2A",
+        "classification": "Probably carcinogenic to humans",
+        "monograph": "Volume 60 (1994)",
+        "source_url": "https://publications.iarc.who.int/78"
+      },
+      "prop65": {
+        "cancer": true,
+        "reproductive": true,
+        "listed_date": "1990-01-01",
+        "source_url": "https://oehha.ca.gov/proposition-65/proposition-65-list"
+      },
+      "notes": "Forms during high-temperature frying/baking (Maillard reaction). Found in potato chips, fries, biscuits, coffee."
+    },
+    "glycidol": {
+      "canonicalName": "Glycidol",
+      "casNumber": "556-52-5",
+      "aliases": [
+        "2,3-epoxy-1-propanol",
+        "oxiranemethanol"
+      ],
+      "iarc": {
+        "group": "2A",
+        "classification": "Probably carcinogenic to humans",
+        "monograph": "Volume 77 (2000)",
+        "source_url": "https://publications.iarc.who.int/95"
+      },
+      "prop65": {
+        "cancer": true,
+        "listed_date": "1990-07-01",
+        "source_url": "https://oehha.ca.gov/proposition-65/proposition-65-list"
+      },
+      "notes": "Released from glycidyl esters in refined palm oil. EU has strict limits; India does not."
+    },
+    "3-mcpd": {
+      "canonicalName": "3-Monochloropropane-1,2-diol",
+      "casNumber": "96-24-2",
+      "aliases": [
+        "3-mcpd",
+        "3-chloropropane-1,2-diol"
+      ],
+      "iarc": {
+        "group": "2B",
+        "classification": "Possibly carcinogenic to humans",
+        "monograph": "Volume 101 (2013)",
+        "source_url": "https://publications.iarc.who.int/124"
+      },
+      "notes": "Contaminant in refined vegetable oils (especially palm). Causes kidney damage and testicular tumors in rodents."
+    },
+    "aspartame": {
+      "canonicalName": "Aspartame",
+      "casNumber": "22839-47-0",
+      "aliases": [
+        "e951",
+        "ins 951",
+        "nutrasweet",
+        "equal"
+      ],
+      "iarc": {
+        "group": "2B",
+        "classification": "Possibly carcinogenic to humans",
+        "monograph": "Volume 134 (2023)",
+        "source_url": "https://www.iarc.who.int/news-events/aspartame-hazard-and-risk-assessment-results-released/"
+      },
+      "notes": "Classified by IARC as Group 2B in 2023. JECFA maintained ADI of 40 mg/kg body weight."
+    },
+    "bha": {
+      "canonicalName": "Butylated Hydroxyanisole (BHA)",
+      "casNumber": "25013-16-5",
+      "aliases": [
+        "e320",
+        "ins 320",
+        "butylhydroxyanisole"
+      ],
+      "iarc": {
+        "group": "2B",
+        "classification": "Possibly carcinogenic to humans",
+        "monograph": "Volume 40 (1986)",
+        "source_url": "https://publications.iarc.who.int/58"
+      },
+      "prop65": {
+        "cancer": true,
+        "listed_date": "1990-01-01",
+        "source_url": "https://oehha.ca.gov/proposition-65/proposition-65-list"
+      },
+      "efsaAdi": 1.0,
+      "notes": "Synthetic antioxidant. California phasing out by 2027."
+    },
+    "titanium dioxide": {
+      "canonicalName": "Titanium Dioxide",
+      "casNumber": "13463-67-7",
+      "aliases": [
+        "e171",
+        "ins 171",
+        "tio2",
+        "ci 77891"
+      ],
+      "iarc": {
+        "group": "2B",
+        "classification": "Possibly carcinogenic to humans (via inhalation)",
+        "monograph": "Volume 93 (2010)",
+        "source_url": "https://publications.iarc.who.int/111"
+      },
+      "notes": "BANNED as food additive in EU since August 2022. EFSA could not rule out genotoxicity. Still permitted in India."
+    },
+    "potassium bromate": {
+      "canonicalName": "Potassium Bromate",
+      "casNumber": "7758-01-2",
+      "aliases": [
+        "e924",
+        "e924a",
+        "ins 924",
+        "ins 924a"
+      ],
+      "iarc": {
+        "group": "2B",
+        "classification": "Possibly carcinogenic to humans",
+        "monograph": "Volume 73 (1999)",
+        "source_url": "https://publications.iarc.who.int/91"
+      },
+      "prop65": {
+        "cancer": true,
+        "listed_date": "1990-01-01",
+        "source_url": "https://oehha.ca.gov/proposition-65/proposition-65-list"
+      },
+      "notes": "Banned in India in 2016 for bread. Still used illegally in some products."
+    },
+    "oxybenzone": {
+      "canonicalName": "Oxybenzone",
+      "casNumber": "131-57-7",
+      "aliases": [
+        "benzophenone-3",
+        "bp-3"
+      ],
+      "iarc": {
+        "group": "2B",
+        "classification": "Possibly carcinogenic to humans",
+        "monograph": "Volume 101 (2013)",
+        "source_url": "https://publications.iarc.who.int/124"
+      },
+      "notes": "UV filter in sunscreens and cosmetics. Hormone disruptor. Banned in Hawaii and Key West for reef damage."
+    },
+    "1,4-dioxane": {
+      "canonicalName": "1,4-Dioxane",
+      "casNumber": "123-91-1",
+      "aliases": [
+        "dioxane",
+        "p-dioxane"
+      ],
+      "iarc": {
+        "group": "2B",
+        "classification": "Possibly carcinogenic to humans",
+        "monograph": "Volume 71 (1999)",
+        "source_url": "https://publications.iarc.who.int/89"
+      },
+      "prop65": {
+        "cancer": true,
+        "listed_date": "1988-01-01",
+        "source_url": "https://oehha.ca.gov/proposition-65/proposition-65-list"
+      },
+      "notes": "Contaminant in sulfate-based cleansers (SLES). Not listed on labels. NY state sets limits."
+    },
+    "lead": {
+      "canonicalName": "Lead and lead compounds",
+      "casNumber": "7439-92-1",
+      "aliases": [
+        "lead",
+        "pb"
+      ],
+      "iarc": {
+        "group": "2A",
+        "classification": "Probably carcinogenic to humans (inorganic lead)",
+        "monograph": "Volume 87 (2006)",
+        "source_url": "https://publications.iarc.who.int/105"
+      },
+      "prop65": {
+        "cancer": true,
+        "reproductive": true,
+        "listed_date": "1987-02-27",
+        "source_url": "https://oehha.ca.gov/proposition-65/proposition-65-list"
+      },
+      "notes": "Found in some turmeric powders, unregulated cosmetics (kohl/surma), old paint."
+    },
+    "caffeine": {
+      "canonicalName": "Caffeine",
+      "casNumber": "58-08-2",
+      "aliases": [],
+      "iarc": {
+        "group": "3",
+        "classification": "Not classifiable as to carcinogenicity in humans",
+        "monograph": "Volume 51 (1991)",
+        "source_url": "https://publications.iarc.who.int/69"
+      },
+      "notes": "Generally safe at normal consumption levels."
+    },
+    "saccharin": {
+      "canonicalName": "Saccharin",
+      "casNumber": "81-07-2",
+      "aliases": [
+        "e954",
+        "ins 954"
+      ],
+      "iarc": {
+        "group": "3",
+        "classification": "Not classifiable as to carcinogenicity in humans",
+        "monograph": "Volume 73 (1999)",
+        "source_url": "https://publications.iarc.who.int/91"
+      },
+      "notes": "Originally classified Group 2B, downgraded to Group 3 after rodent mechanism found not relevant to humans."
+    },
+    "sodium benzoate": {
+      "canonicalName": "Sodium Benzoate",
+      "casNumber": "532-32-1",
+      "aliases": [
+        "e211",
+        "ins 211"
+      ],
+      "efsaAdi": 5.0,
+      "efsaSource": "https://www.efsa.europa.eu/en/efsajournal/pub/4433",
+      "notes": "Safe alone but reacts with Vitamin C to form benzene (IARC Group 1)."
+    },
+    "tartrazine": {
+      "canonicalName": "Tartrazine",
+      "casNumber": "1934-21-0",
+      "aliases": [
+        "e102",
+        "ins 102",
+        "yellow 5"
+      ],
+      "efsaAdi": 7.5,
+      "efsaSource": "https://www.efsa.europa.eu/en/efsajournal/pub/1331",
+      "notes": "EU requires hyperactivity warning label. One of the Southampton Six."
+    },
+    "carmoisine": {
+      "canonicalName": "Carmoisine (Azorubine)",
+      "casNumber": "3567-69-9",
+      "aliases": [
+        "e122",
+        "ins 122"
+      ],
+      "efsaAdi": 4.0,
+      "efsaSource": "https://www.efsa.europa.eu/en/efsajournal/pub/1332",
+      "notes": "NOT approved for food use in the US. One of the Southampton Six."
+    },
+    "ponceau 4r": {
+      "canonicalName": "Ponceau 4R",
+      "casNumber": "2611-82-7",
+      "aliases": [
+        "e124",
+        "ins 124",
+        "cochineal red a"
+      ],
+      "efsaAdi": 0.7,
+      "efsaSource": "https://www.efsa.europa.eu/en/efsajournal/pub/1328",
+      "notes": "NOT approved for food use in the US. One of the Southampton Six."
+    },
+    "sunset yellow": {
+      "canonicalName": "Sunset Yellow FCF",
+      "casNumber": "2783-94-0",
+      "aliases": [
+        "e110",
+        "ins 110",
+        "yellow 6",
+        "fd&c yellow 6"
+      ],
+      "efsaAdi": 4.0,
+      "efsaSource": "https://www.efsa.europa.eu/en/efsajournal/pub/1330",
+      "notes": "EU requires hyperactivity warning label. One of the Southampton Six."
+    },
+    "msg": {
+      "canonicalName": "Monosodium Glutamate (MSG)",
+      "casNumber": "142-47-2",
+      "aliases": [
+        "e621",
+        "ins 621"
+      ],
+      "efsaAdi": 30.0,
+      "efsaSource": "https://www.efsa.europa.eu/en/efsajournal/pub/4910",
+      "notes": "EFSA 2017 re-evaluation set ADI of 30 mg/kg. Most adults exceed this."
+    },
+    "tbhq": {
+      "canonicalName": "TBHQ (Tert-Butylhydroquinone)",
+      "casNumber": "1948-33-0",
+      "aliases": [
+        "e319",
+        "ins 319"
+      ],
+      "efsaAdi": 0.7,
+      "efsaSource": "https://www.efsa.europa.eu/en/efsajournal/pub/84",
+      "notes": "JECFA noted limited evidence of immunotoxicity at high doses."
+    }
+  }
+}
