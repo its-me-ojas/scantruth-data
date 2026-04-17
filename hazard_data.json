@@ -232,7 +232,7 @@
     },
     "sunset yellow": {
       "name": "Sunset Yellow",
-      "casNumber": null,
+      "casNumber": "2783-94-0",
       "aliases": [
         "e110",
         "ins 110",
@@ -249,8 +249,8 @@
       "iarcGroup": null,
       "prop65": null,
       "echaHazards": null,
-      "efsaAdi": null,
-      "fdaStatus": null,
+      "efsaAdi": 4.0,
+      "fdaStatus": "Approved as FD&C Yellow 6 under 21 CFR 74.706",
       "fssaiLimit": null,
       "impacts": null,
       "vulnerableGroups": null,
@@ -258,7 +258,7 @@
       "whatToDo": null,
       "saferAlternatives": [],
       "sources": [],
-      "lastVerified": null
+      "lastVerified": "2026-04-17"
     },
     "allura red": {
       "name": "Allura Red",
@@ -409,7 +409,7 @@
     },
     "potassium bromate": {
       "name": "Potassium Bromate",
-      "casNumber": null,
+      "casNumber": "7758-01-2",
       "aliases": [
         "e924a",
         "ins 924a"
@@ -420,11 +420,11 @@
       "healthEffect": "IARC Group 2B carcinogen. Banned in EU, India (2016), and many countries.",
       "detail": "Officially banned in India since 2016 but enforcement is inconsistent. Still found in some bread products.",
       "summary": null,
-      "iarcGroup": null,
+      "iarcGroup": "group2b",
       "prop65": null,
       "echaHazards": null,
       "efsaAdi": null,
-      "fdaStatus": null,
+      "fdaStatus": "Permitted in US as a dough conditioner, max 75 ppm of flour (21 CFR 136.110). Banned in California effective January 1, 2027 (AB 418).",
       "fssaiLimit": null,
       "impacts": null,
       "vulnerableGroups": null,
@@ -432,7 +432,7 @@
       "whatToDo": null,
       "saferAlternatives": [],
       "sources": [],
-      "lastVerified": null
+      "lastVerified": "2026-04-17"
     },
     "tbhq": {
       "name": "TBHQ (Tert-Butylhydroquinone)",
@@ -587,7 +587,7 @@
         "Potato chips and crisps",
         "Breakfast cereals"
       ],
-      "whatToDo": "Check labels for \"INS 320\", \"E320\", or \"BHA\". Look for products using \"natural antioxidants\" or \"mixed tocopherols\" instead. The \"banned abroad\" label is warranted - California is phasing it out by 2027.",
+      "whatToDo": "Check labels for \"INS 320\", \"E320\", or \"BHA\". Look for products using \"natural antioxidants\" or \"mixed tocopherols\" instead. FDA launched a post-market assessment of BHA in February 2026.",
       "saferAlternatives": [
         "Tocopherols (E306-E309) - natural vitamin E",
         "Ascorbyl palmitate (E304) - fat-soluble vitamin C",
@@ -914,7 +914,7 @@
     },
     "aspartame": {
       "name": "Aspartame",
-      "casNumber": null,
+      "casNumber": "22839-47-0",
       "aliases": [
         "e951",
         "ins 951"
@@ -925,11 +925,11 @@
       "healthEffect": "IARC classified as \"possibly carcinogenic\" (Group 2B) in 2023",
       "detail": "WHO/JECFA maintained the ADI at 40 mg/kg body weight. Found in diet drinks and sugar-free products.",
       "summary": null,
-      "iarcGroup": null,
+      "iarcGroup": "group2b",
       "prop65": null,
       "echaHazards": null,
-      "efsaAdi": null,
-      "fdaStatus": null,
+      "efsaAdi": 40.0,
+      "fdaStatus": "Approved food additive under 21 CFR 172.804 as a general-purpose sweetener",
       "fssaiLimit": null,
       "impacts": null,
       "vulnerableGroups": null,
@@ -937,7 +937,7 @@
       "whatToDo": null,
       "saferAlternatives": [],
       "sources": [],
-      "lastVerified": null
+      "lastVerified": "2026-04-17"
     },
     "sucralose": {
       "name": "Sucralose",
@@ -1779,7 +1779,7 @@
     },
     "sodium nitrite": {
       "name": "Sodium Nitrite",
-      "casNumber": null,
+      "casNumber": "7632-00-0",
       "aliases": [
         "e250",
         "ins 250"
@@ -1787,13 +1787,13 @@
       "level": "danger",
       "banStatus": "restricted",
       "category": "Preservative",
-      "healthEffect": "Can form nitrosamines (carcinogens) when heated. IARC Group 2A.",
+      "healthEffect": "Can form nitrosamines during cooking. IARC classifies ingested nitrites under conditions of endogenous nitrosation as Group 2A (probably carcinogenic).",
       "detail": "Used in cured meats (ham, bacon, sausages). WHO classifies processed meat as carcinogenic partly due to this.",
       "summary": null,
       "iarcGroup": null,
       "prop65": null,
       "echaHazards": null,
-      "efsaAdi": null,
+      "efsaAdi": 0.07,
       "fdaStatus": null,
       "fssaiLimit": null,
       "impacts": null,
@@ -1802,7 +1802,7 @@
       "whatToDo": null,
       "saferAlternatives": [],
       "sources": [],
-      "lastVerified": null
+      "lastVerified": "2026-04-17"
     },
     "sodium nitrate": {
       "name": "Sodium Nitrate",
@@ -3212,13 +3212,13 @@
       "banStatus": "bannedBoth",
       "category": "Emulsifier",
       "healthEffect": "Bromine accumulates in fatty tissue. Linked to neurological symptoms, skin lesions, and memory loss at high exposure.",
-      "detail": "Banned in EU, UK, Japan, and 100+ countries. US FDA banned 2024. Still used in some Indian citrus sodas to keep flavour oils suspended. Check labels for \"brominated\".",
+      "detail": "Banned in UK (1970), India (1990), EU (2008), Japan (2010), US (2024), and Canada (2024). India prohibited BVO in soft drinks in 1990. Check labels for any ingredient listed as \"brominated\".",
       "summary": null,
       "iarcGroup": null,
       "prop65": null,
       "echaHazards": null,
       "efsaAdi": null,
-      "fdaStatus": null,
+      "fdaStatus": "Banned by FDA effective August 2, 2024 (compliance required by August 2, 2025); final rule 89 FR 55040.",
       "fssaiLimit": null,
       "impacts": null,
       "vulnerableGroups": null,
@@ -3226,7 +3226,7 @@
       "whatToDo": null,
       "saferAlternatives": [],
       "sources": [],
-      "lastVerified": null
+      "lastVerified": "2026-04-17"
     },
     "vanaspati": {
       "name": "Vanaspati (Partially Hydrogenated Oil)",
