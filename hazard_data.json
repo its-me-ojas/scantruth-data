@@ -1051,24 +1051,56 @@
         "methyl parahydroxybenzoate",
         "propyl parahydroxybenzoate"
       ],
-      "level": "danger",
+      "level": "caution",
       "banStatus": "restricted",
-      "category": "Hormone Disruptor",
-      "healthEffect": "Endocrine disruptor. Mimics estrogen. Detected in breast cancer tissue.",
-      "detail": "EU restricts concentrations. Found in Lakme, Ponds, and many Indian cosmetic brands despite \"paraben-free\" trends.",
+      "category": "Preservative",
+      "healthEffect": "EFSA withdrew propylparaben's ADI in 2004 over juvenile-rat reproductive-toxicity data. Methyl and ethyl parabens remain under group ADI 10 mg/kg bw/day with no regulatory endocrine classification.",
+      "detail": "Synthetic preservatives used in food, cosmetics, and pharmaceuticals. EFSA 2004 (EFSA Journal 2004;2:83) withdrew propylparaben's ADI based on effects on sperm production in juvenile rats and absence of a clear NOAEL. Methyl and ethyl parabens retained a group ADI of 10 mg/kg bw/day. California AB 418 (2023) will prohibit propylparaben in food effective January 1, 2027. EFSA has NOT classified any paraben as a confirmed endocrine disruptor at dietary exposure. In-vitro estrogenic activity has been observed but is weak relative to natural estrogens.",
       "summary": null,
-      "iarcGroup": null,
-      "prop65": null,
+      "iarcGroup": "notEvaluated",
+      "prop65": "notListed",
       "echaHazards": null,
-      "efsaAdi": null,
-      "fdaStatus": null,
-      "fssaiLimit": null,
+      "efsaAdi": 10.0,
+      "fdaStatus": "Methylparaben GRAS under 21 CFR 184.1490; Propylparaben GRAS under 21 CFR 184.1670 but will be banned from food in California effective January 1, 2027 (AB 418).",
+      "fssaiLimit": "Permitted as Class II preservative (FSS Regulations 2011) for methyl parahydroxybenzoic acid and propyl parahydroxybenzoic acid.",
       "impacts": null,
       "vulnerableGroups": null,
-      "foundInProducts": [],
-      "whatToDo": null,
-      "saferAlternatives": [],
-      "sources": [],
+      "foundInProducts": [
+        "Packaged food preservatives (jams, sauces, baked goods)",
+        "Pharmaceutical formulations (supplements, syrups)",
+        "Processed meats and fish pastes"
+      ],
+      "whatToDo": "Look for \"INS 214-219\", \"E214-E219\", or names \"methylparaben\", \"propylparaben\", \"ethylparaben\" on food labels. Methyl and ethyl parabens have a full EFSA ADI. Propylparaben's ADI was withdrawn by EFSA in 2004 and will be banned in California food from 2027.",
+      "saferAlternatives": [
+        "Potassium sorbate (INS 202)",
+        "Natural preservatives like rosemary extract or tocopherols (INS 306-309)"
+      ],
+      "sources": [
+        {
+          "title": "EFSA Opinion on parahydroxybenzoates E 214-219 (2004)",
+          "authority": "EFSA",
+          "url": "https://efsa.onlinelibrary.wiley.com/doi/pdf/10.2903/j.efsa.2004.83",
+          "year": 2004
+        },
+        {
+          "title": "California Food Safety Act AB 418 (2023)",
+          "authority": "California Legislature",
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240AB418",
+          "year": 2023
+        },
+        {
+          "title": "21 CFR 184.1490 Methylparaben (FDA)",
+          "authority": "US eCFR",
+          "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-184/subpart-B/section-184.1490",
+          "year": 2024
+        },
+        {
+          "title": "21 CFR 184.1670 Propylparaben (FDA)",
+          "authority": "US eCFR",
+          "url": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-B/part-184/subpart-B/section-184.1670",
+          "year": 2024
+        }
+      ],
       "lastVerified": "2026-04-18"
     },
     "formaldehyde": {
